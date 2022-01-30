@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "731654612879",
+    "firebase_url": "https://cubersocial.firebaseio.com",
+    "project_id": "cubersocial",
+    "storage_bucket": "cubersocial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731654612879:android:2530c316342f9266f18dfa",
+        "android_client_info": {
+          "package_name": "com.cubersocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731654612879-737h4kkp1eapfr1lgthttrc6h35dih4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa1-h8582Q6G2FE2B1fyenMqFo2OTts00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731654612879-737h4kkp1eapfr1lgthttrc6h35dih4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731654612879-2vdm7bb4taanvt582sai4rhlpt1penc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cubersocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

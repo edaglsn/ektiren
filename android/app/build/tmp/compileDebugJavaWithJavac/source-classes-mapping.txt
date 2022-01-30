@@ -1,0 +1,14 @@
+com/cubersocial/BuildConfig.java
+ com.cubersocial.BuildConfig
+com/cubersocial/MainApplication.java
+ com.cubersocial.MainApplication
+ com.cubersocial.MainApplication$1
+com/cuberpearl/ReactNativeFlipper.java
+ com.cuberpearl.ReactNativeFlipper
+ com.cuberpearl.ReactNativeFlipper$1
+ com.cuberpearl.ReactNativeFlipper$2
+ com.cuberpearl.ReactNativeFlipper$2$1
+com/cubersocial/MainActivity.java
+ com.cubersocial.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

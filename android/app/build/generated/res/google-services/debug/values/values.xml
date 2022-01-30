@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">731654612879-737h4kkp1eapfr1lgthttrc6h35dih4c.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cubersocial.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">731654612879</string>
+    <string name="google_api_key" translatable="false">AIzaSyDa1-h8582Q6G2FE2B1fyenMqFo2OTts00</string>
+    <string name="google_app_id" translatable="false">1:731654612879:android:2530c316342f9266f18dfa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDa1-h8582Q6G2FE2B1fyenMqFo2OTts00</string>
+    <string name="google_storage_bucket" translatable="false">cubersocial.appspot.com</string>
+    <string name="project_id" translatable="false">cubersocial</string>
+</resources>

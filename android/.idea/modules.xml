@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CuberPearl.iml" filepath="$PROJECT_DIR$/.idea/modules/CuberPearl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1630439766/CuberPearl.@react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1630439766/CuberPearl.@react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CuberPearl.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CuberPearl.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1360234611/CuberPearl.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/1360234611/CuberPearl.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/956942798/CuberPearl.react-native-background-fetch.iml" filepath="$PROJECT_DIR$/.idea/modules/956942798/CuberPearl.react-native-background-fetch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1580274150/CuberPearl.react-native-background-geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1580274150/CuberPearl.react-native-background-geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1515266980/CuberPearl.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1515266980/CuberPearl.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2034384517/CuberPearl.react-native-community_viewpager.iml" filepath="$PROJECT_DIR$/.idea/modules/-2034384517/CuberPearl.react-native-community_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1042956238/CuberPearl.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1042956238/CuberPearl.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1133125539/CuberPearl.react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1133125539/CuberPearl.react-native-fast-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-491160277/CuberPearl.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-491160277/CuberPearl.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/435732987/CuberPearl.react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/435732987/CuberPearl.react-native-firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1630439766/CuberPearl.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/1630439766/CuberPearl.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1742899501/CuberPearl.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1742899501/CuberPearl.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/718005728/CuberPearl.react-native-firebase_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/718005728/CuberPearl.react-native-firebase_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1909974320/CuberPearl.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1909974320/CuberPearl.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1288679859/CuberPearl.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1288679859/CuberPearl.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-908811866/CuberPearl.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-908811866/CuberPearl.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1678513370/CuberPearl.react-native-image-filter-kit.iml" filepath="$PROJECT_DIR$/.idea/modules/-1678513370/CuberPearl.react-native-image-filter-kit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1445377920/CuberPearl.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1445377920/CuberPearl.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/476276873/CuberPearl.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/476276873/CuberPearl.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2122131804/CuberPearl.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2122131804/CuberPearl.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2088717428/CuberPearl.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2088717428/CuberPearl.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-850676545/CuberPearl.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-850676545/CuberPearl.react-native-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1923866321/CuberPearl.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/1923866321/CuberPearl.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/832830211/CuberPearl.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/832830211/CuberPearl.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
