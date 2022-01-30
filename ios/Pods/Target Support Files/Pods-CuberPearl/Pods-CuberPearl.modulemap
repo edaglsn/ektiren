@@ -1,6 +1,0 @@
-module Pods_CuberPearl {
-  umbrella header "Pods-CuberPearl-umbrella.h"
-
-  export *
-  module * { export * }
-}
